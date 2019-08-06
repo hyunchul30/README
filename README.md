@@ -23,7 +23,7 @@ _email: zakrogh@gmail.com if you have issues._
 
 ## Technologies Used
 
-_HTML_
+_HTML_CSS_
 
 ### License
 
